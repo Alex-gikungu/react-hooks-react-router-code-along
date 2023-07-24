@@ -324,7 +324,7 @@ of using `Link` in later lessons.
 Let's work on adding in the `NavLink` component to our application:
 
 ```jsx
-import React from "react";
+ import React from "react";
 import ReactDOM from "react-dom";
 /* Add NavLink to import */
 import { BrowserRouter, Route, NavLink, Switch } from "react-router-dom";
